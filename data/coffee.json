@@ -1,17 +1,17 @@
 {
   "success": true,
-  "updated_at": "2025-11-09T11:37:54.224552",
+  "updated_at": "2025-11-09T12:49:04.011297",
   "today": [
     {
-      "커피": "과테말라 제뉴인 안티구아",
+      "커피": "파푸아 뉴기니 시그리A",
       "로스팅": {
-        "start": "2025-07-12",
+        "start": "2025-08-07",
         "end": null
       },
       "프로세싱": "워시드",
       "상태": "진행 중",
-      "컵노트": "Sweet , floral, vanilla, cocoa, walnut, cashew butter, grapefruit, well balance, good body, slightly sour",
-      "감상": null,
+      "컵노트": "흑설탕, 군밤, 구운토스트",
+      "감상": "단맛 좋은 커피가 땡길때",
       "제공일": null
     }
   ],
@@ -38,7 +38,7 @@
         "end": null
       },
       "프로세싱": "워시드",
-      "상태": "시작 전",
+      "상태": "진행 중",
       "컵노트": "흑설탕, 군밤, 구운토스트",
       "감상": "단맛 좋은 커피가 땡길때",
       "제공일": null
@@ -110,7 +110,7 @@
         "end": null
       },
       "프로세싱": "워시드",
-      "상태": "진행 중",
+      "상태": "완료",
       "컵노트": "Sweet , floral, vanilla, cocoa, walnut, cashew butter, grapefruit, well balance, good body, slightly sour",
       "감상": null,
       "제공일": null
