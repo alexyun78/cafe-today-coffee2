@@ -86,8 +86,8 @@ git push -u origin main
 
 | Name | Value |
 |------|-------|
-| `NOTION_TOKEN` | `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` |
-| `DATABASE_ID` | `211692fc7365806ab77ef94fdb2daf02` |
+| `NOTION_TOKEN` | `` |
+| `DATABASE_ID` | `` |
 
 **⚠️ 중요:** 본인의 실제 Token과 Database ID를 입력하세요!
 
